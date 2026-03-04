@@ -22,7 +22,7 @@ Assert – verificação do resultado esperado
 
 O Gradle foi utilizado para fazer o gerenciamento das dependências do projeto e também para executar os testes automatizados.
 
-Como os testes automatizados ajudam na qualidade do software?
+COMO OS TESTES AUTOMATIZADOS AJUDAM NA QUALIDADE DO SOFTWARE?
 
 Os testes automatizados ajudam a garantir que o sistema esteja funcionando corretamente.
 
